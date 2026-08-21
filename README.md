@@ -1,4 +1,4 @@
-# Scroll Hero Animation
+# Scroll Hero Animation...
 
 A premium scroll-driven hero section built with **HTML, CSS, and JavaScript**. The project demonstrates smooth text reveals, animated visual elements, and scroll-based interactions.
 
